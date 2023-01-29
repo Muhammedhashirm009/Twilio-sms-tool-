@@ -1,11 +1,15 @@
 # Twilio-sms-tool-
 
+*THIS SCRIPT IS FREE AND ITS CREATED-BY HASHIR*
 
 '
  To run this
  
  ``` 
 git clone https://github.com/Muhammedhashirm009/Twilio-sms-tool-
+```
+```
+ bash dep.sh
 ```
 ```
 cd Twilio-sms-tool-
@@ -25,3 +29,4 @@ This script has some errors cause iam not that pro just a beginner
 😁😁
 
 # Twilio sms tool
+

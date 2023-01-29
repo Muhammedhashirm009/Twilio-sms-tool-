@@ -8,11 +8,12 @@
  ``` 
 git clone https://github.com/Muhammedhashirm009/Twilio-sms-tool-
 ```
-```
- bash dep.sh
-```
+
 ```
 cd Twilio-sms-tool-
+```
+```
+bash dep.sh
 ```
 ```
 bash main.sh
